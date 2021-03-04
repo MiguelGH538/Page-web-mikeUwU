@@ -1,8 +1,5 @@
 /**
-* Template Name: Avilon - v2.2.0
-* Template URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Author: Mike Gabriel
 */
 !(function($) {
   "use strict";
